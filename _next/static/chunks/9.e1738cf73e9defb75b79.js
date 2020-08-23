@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[9],{ddFw:function(o){o.exports=JSON.parse('{"title":"COVID Ratio"}')}}]);
